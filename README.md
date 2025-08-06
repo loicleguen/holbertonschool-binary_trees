@@ -78,4 +78,4 @@ binary_tree_insert_left(root->right, 128);
 
 ## Author
 
-Loïc Leguen <loic.leguen@holbertonschool.com>
+Loïc Leguen <https://github.com/loicleguen?tab=repositories>
